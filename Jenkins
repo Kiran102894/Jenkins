@@ -40,7 +40,7 @@ systemctl start jenkins
 
 systemctl status jenkins
 
-Installation is complete on the server
+Installation is complete on the server :
 
 
 
